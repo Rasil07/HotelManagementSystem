@@ -1,0 +1,25 @@
+D:\visual code\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.Cache
+D:\visual code\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+D:\visual code\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.Login.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.Menu.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.FoodItem.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.add_customer.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.Customer.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.csprojResolveAssemblyReference.cache
+\\DESKTOP-LCJU2UB\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+\\DESKTOP-LCJU2UB\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+\\DESKTOP-LCJU2UB\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.edit_cust.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.Room.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.staff.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.add_staff.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.edit_staff.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.customer_billing.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.order.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.checkout.resources
+D:\visual code\Hotel_Management_System\obj\Debug\Hotel_Management_System.sales_data.resources
